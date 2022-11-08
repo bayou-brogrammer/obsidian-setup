@@ -11,8 +11,12 @@
             "id": "3517f44109d7d12a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SUMMARY.md"
+              }
             }
           },
           {
@@ -153,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb449bc20275ec02",
+  "active": "3517f44109d7d12a",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "git.md",
     "Design.md",
+    "SUMMARY.md",
     "README.md",
+    "ATRL Kanban Board/ATRL Kanban Board.md",
+    "git.md",
     "CleanShot 2022-11-06 at 21.03.30@2x.png.md",
     "images/CleanShot 2022-11-06 at 21.03.30@2x.png",
     "WIKI/git/Untitled.md",
     "Untitled.md",
-    "2022-11-06.md",
-    "ATRL Kanban Board/What is this?.md"
+    "2022-11-06.md"
   ]
 }
