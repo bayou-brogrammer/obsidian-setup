@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "Design.md"
               }
             }
           },
@@ -163,8 +163,8 @@
   },
   "active": "3517f44109d7d12a",
   "lastOpenFiles": [
-    "Design.md",
     "SUMMARY.md",
+    "Design.md",
     "README.md",
     "ATRL Kanban Board/ATRL Kanban Board.md",
     "git.md",
